@@ -6,8 +6,6 @@ Iniciei na área de desenvolvimento de sistemas em 2017, e desde então venho co
 
 Minha missão é mudar a vida das pessoas utilizando tecnologia.
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente trabalho como Instrutor na Escola SENAI "Paulo Antônio Skaf", especializada na área de Tecnologia da Informação
 - 📫 Fale comigo:
 <br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagorochanascimento/)
