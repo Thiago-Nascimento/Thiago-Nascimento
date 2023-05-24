@@ -8,7 +8,7 @@ Minha missão é mudar a vida das pessoas utilizando tecnologia.
 
 - 🔭 Atualmente trabalho como Instrutor na Escola SENAI "Paulo Antônio Skaf", especializada na área de Tecnologia da Informação
 - 📫 Fale comigo:
-<br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagorochanascimento/)
+<br><br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagorochanascimento/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thiago.r.nascimento@hotmail.com)
 - 😄 Pronomes: Ele/Dele
 
