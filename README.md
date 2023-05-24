@@ -12,5 +12,7 @@ Minha missão é mudar a vida das pessoas utilizando tecnologia.
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thiago.r.nascimento@hotmail.com)
 - 😄 Pronomes: Ele/Dele
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Nascimento&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Nascimento&layout=compact&langs_count=10&theme=github_dark"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Nascimento&count_private=true&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/Thiago-Nascimento/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Nascimento&langs_count=10&layout=compact&theme=transparent&locale=pt-br&hide_progress=true)](https://github.com/Thiago-Nascimento/github-readme-stats)
+  
